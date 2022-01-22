@@ -110,9 +110,10 @@ The payment is processed by PayPal but you don't need to have a
 PayPal account or sign-up for one if you are paying by credit card.
 
 You can also use your own Paypal account to donate.
+# https://www.paypal.com/donate/?hosted_button_id=D8AXHXAMNZ3WY
 
 You can also donate Bitcoin, Bitcoin Cash, Tron, Ethereum, Litecoin and etc ...
-<a href="[Donate (paypal.com)](https://www.paypal.com/donate/?hosted_button_id=D8AXHXAMNZ3WY)"><img src="blue.svg" height="40"></a>
+
 <a href="https://nowpayments.io/donation?api_key=8NWRRT9-GWM4NDE-JXPJF75-74ZY5D0" target="_blank">
 <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
 </a>
