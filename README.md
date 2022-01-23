@@ -62,7 +62,7 @@ Elliptic curve cryptography is a type of asymmetric or public-key cryptography b
 Bitcoin uses a specific elliptic curve and set of mathematical constants, as defined in a standard called  `secp256k1`, established by the  National Institute of Standards and Technology (NIST). The  `secp256k1`  curve is defined by the following function, which produces an elliptic curve:
 ![ellip form](https://user-images.githubusercontent.com/36337300/150638818-f938660b-883d-4bee-afcc-2f87917b1f1e.png)
 
-The _mod p_ (modulo prime number p) indicates that this curve is over a finite field of prime order _p_, also written as F of p where p = 2256 – 232 – 29 – 28 – 27 – 26 – 24 – 1, a very large prime number.
+The _mod p_ (modulo prime number p) indicates that this curve is over a finite field of prime order _p_, also written as F of p where p = 2^256 – 2^32 – 2^9 – 2^8 – 2^7 – 2^6 – 2^4 – 1, a very large prime number.
 Because this curve is defined over a finite field of prime order instead of over the real numbers, it looks like a pattern of dots scattered in two dimensions, which makes it difficult to visualize. However, the math is identical as that of an elliptic curve over the real numbers.
 ![ellip curver with p=17](https://user-images.githubusercontent.com/36337300/150638830-fd98ea06-98af-482f-9d63-3993f887db3d.png)
 
