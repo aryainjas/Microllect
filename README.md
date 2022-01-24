@@ -1,5 +1,8 @@
 # Microllect
 btc wallet hacker using advanced methods.
+[![HitCount](http://hits.dwyl.com/aryainjas/microllect.svg?style=flat)](http://hits.dwyl.com/aryainjas/microllect)
+![Profile views](https://gpvc.arturio.dev/aryainjas)
+
 ![made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 ![built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)
 ![maintend](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
@@ -127,5 +130,3 @@ You can also donate Bitcoin, Bitcoin Cash, Tron, Ethereum, Litecoin and etc ...
 
 The code within this repository comes with no guarantee, the use of this code is **your responsibility***. I take 'NO' responsibility and/or liability for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK.
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/aryainjas)
-  [![HitCount](http://hits.dwyl.com/aryainjas/microllect.svg?style=flat)](http://hits.dwyl.com/aryainjas/microllect)
-  ![Profile views](https://gpvc.arturio.dev/aryainjas)
