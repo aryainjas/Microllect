@@ -2,7 +2,7 @@
 btc wallet hacker using advanced methods.
 [![HitCount](http://hits.dwyl.com/aryainjas/microllect.svg?style=flat)](http://hits.dwyl.com/aryainjas/microllect)
 ![Profile views](https://gpvc.arturio.dev/aryainjas)
-
+[![CodeFactor](https://www.codefactor.io/repository/github/aryainjas/microllect/badge)](https://www.codefactor.io/repository/github/aryainjas/microllect)
 ![made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 ![built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)
 ![maintend](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
