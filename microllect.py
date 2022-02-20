@@ -14,7 +14,7 @@ from json import (load as jsonload, dump as jsondump)
 from os import path
 import json
 import pyperclip
-
+### if you want to change  cpu dosage add cpu pool
 start_time = datetime.datetime.now()
 
 def secret(num):
