@@ -29,7 +29,8 @@ def pubkey(secret_exponent):
     return '04' + binascii.hexlify(s.verifying_key.to_string()).decode('utf-8')
 
 def addr(public_key):
-    output = []; alphabet = '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz'
+    output = [] 
+    alphabet = '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz'
     var = hashlib.new('ripemd160')
     var.update(hashlib.sha256(binascii.unhexlify(public_key.encode())).digest())
     var = '00' + var.hexdigest() + hashlib.sha256(hashlib.sha256(binascii.unhexlify(('00' + var.hexdigest()).encode())).digest()).hexdigest()[0:8]
@@ -38,7 +39,8 @@ def addr(public_key):
     while n > 0:
         n, remainder = divmod(n, 58)
         output.append(alphabet[remainder])
-    for i in range(count): output.append(alphabet[0])
+    for i in range(count):
+        output.append(alphabet[0])
     return ''.join(output[::-1])
 
 def wif(secret_exponent):
@@ -96,7 +98,8 @@ def save_settings(settings_file, settings, values):
 def create_settings_window(settings):
     sg.theme(settings['theme'])
 
-    def TextLabel(text): return sg.Text(text+':', justification='r', size=(15,1))
+    def TextLabel(text): 
+        return sg.Text(text+':', justification='r', size=(15,1))
 
     layout = [  [sg.Text('Settings', font='Any 15')],
                 [TextLabel('Theme'),sg.Combo(sg.theme_list(), size=(20, 20), key='-THEME-')],
