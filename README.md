@@ -40,6 +40,7 @@ cd Microllect&& pip install -r requirements.txt
 python Microllect.py
 
 ```
+feel free to send your database.
 
 # Proof of Concept*
 ```
