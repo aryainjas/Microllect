@@ -8,6 +8,13 @@ btc wallet hacker using advanced methods.
 ![maintend](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 FROM IRAN <3
 
+# Update chages:
+cpu usage changed to defualt python runing scripts in windows os.
+if you want to use older version(using your all cores to run the script) just add the cpu pool to the main code(microllect.py)
+I DO NOT advice to use the old version;it may overheat and damage your hardware.
+feel free to send pull requests and etc...
+wish good hackig yall.( Before using read the disclaimer section and be aware of your actions! )
+
 ![microllect film](https://user-images.githubusercontent.com/36337300/150638743-db136fbb-d65c-4f02-bb4e-4b975ed7d6aa.gif)
 
   
