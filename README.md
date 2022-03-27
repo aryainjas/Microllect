@@ -45,6 +45,9 @@ feel free to send your database.
 
 # Proof of Concept*
 ```
+Example: 
+Public : 14F8WRfjxmKyyGYjBXkyyhsMBWumYtLPE9
+Private : 5JTwNZeumbo25WtcTQhnzDzufwTvdWXhNANBnPUANNDszM5Kktd
 Although this project can be used maliciously, it is simply an 
 exploration into the Bitcoin protocol and advanced encryption and 
 hashing techniques using Python.
