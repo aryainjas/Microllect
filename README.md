@@ -30,7 +30,6 @@ And learn the protocols that are running.
   [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
   [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 # Usage:
-video = https://youtu.be/_TUEDodOEwA
 ### Python3+
 
 ```
