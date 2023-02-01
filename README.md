@@ -1,5 +1,5 @@
 # Microllect
-btc wallet hacker using advanced methods.
+btc wallet attacker 
 [![HitCount](http://hits.dwyl.com/aryainjas/microllect.svg?style=flat)](http://hits.dwyl.com/aryainjas/microllect)
 ![Profile views](https://gpvc.arturio.dev/aryainjas)
 [![CodeFactor](https://www.codefactor.io/repository/github/aryainjas/microllect/badge)](https://www.codefactor.io/repository/github/aryainjas/microllect)
@@ -22,8 +22,8 @@ wish good learning yall.( Before using read the disclaimer section and be aware 
   
 # Microllect
 ```
-Fully automated btc wallet hack,using advanced protocols.
-Just in case for Awareness about how bitcoin network working.
+Fully automated btc wallet attack.
+Just in case for learn about how bitcoin network working.
 And learn the protocols that are running.
 ```
 # If you like it give it a star
