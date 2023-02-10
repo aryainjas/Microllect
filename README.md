@@ -30,7 +30,6 @@ And learn the protocols that are running.
 [![GitHub stars](https://img.shields.io/github/stars/aryainjas/microllect.svg?style=social&label=Star&maxAge=0)](https://github.com/aryainjas/microllect/)
   [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
   [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-  [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 # Usage:
 ### Python3+
 
