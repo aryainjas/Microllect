@@ -126,8 +126,7 @@ You can use Paypal to donate using your own credit card.
 The payment is processed by PayPal but you don't need to have a
 PayPal account or sign-up for one if you are paying by credit card.
 
-You can also use your own Paypal account to donate.
-# https://www.paypal.com/donate/?hosted_button_id=D8AXHXAMNZ3WY
+
 
 You can also donate Bitcoin, Bitcoin Cash, Tron, Ethereum, Litecoin and etc ...
 
