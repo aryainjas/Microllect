@@ -27,7 +27,6 @@ Just in case for learn about how bitcoin network working.
 And learn the protocols that are running.
 ```
 # If you like it give it a star
-[![GitHub stars](https://img.shields.io/github/stars/aryainjas/microllect.svg?style=social&label=Star&maxAge=0)](https://github.com/aryainjas/microllect/)
   [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
   [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 # Usage:
