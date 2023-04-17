@@ -1,5 +1,6 @@
 # Microllect
 btc wallet attacker 
+an introduction to the Bitcoin (BTC) network and how addresses are made
 [![HitCount](http://hits.dwyl.com/aryainjas/microllect.svg?style=flat)](http://hits.dwyl.com/aryainjas/microllect)
 ![Profile views](https://gpvc.arturio.dev/aryainjas)
 [![CodeFactor](https://www.codefactor.io/repository/github/aryainjas/microllect/badge)](https://www.codefactor.io/repository/github/aryainjas/microllect)
