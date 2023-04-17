@@ -143,3 +143,4 @@ You can also donate Bitcoin, Bitcoin Cash, Tron, Ethereum, Litecoin and etc ...
 The code within this repository comes with no guarantee, the use of this code is **your responsibility***. I take 'NO' responsibility and/or liability for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK.
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/aryainjas)
 It's important to note that cracking Bitcoin wallets is illegal and unethical. It is against the law to access someone else's Bitcoin wallet without proper authorization.
+it is important to use technology responsibly and ethically at all times.
