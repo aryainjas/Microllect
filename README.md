@@ -18,7 +18,6 @@ I DO NOT advice to use the old version;it may overheat and damage your hardware.
 feel free to send pull requests and etc...
 wish good learning yall.( Before using read the disclaimer section and be aware of your actions! )
 
-![microllect film](https://user-images.githubusercontent.com/36337300/150638743-db136fbb-d65c-4f02-bb4e-4b975ed7d6aa.gif)
 
   
 # Microllect
@@ -133,6 +132,7 @@ You can also donate Bitcoin, Bitcoin Cash, Tron, Ethereum, Litecoin and etc ...
 <a href="https://nowpayments.io/donation?api_key=8NWRRT9-GWM4NDE-JXPJF75-74ZY5D0" target="_blank">
 <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
 </a>
+![microllect film](https://user-images.githubusercontent.com/36337300/150638743-db136fbb-d65c-4f02-bb4e-4b975ed7d6aa.gif)
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
