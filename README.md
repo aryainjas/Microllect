@@ -12,11 +12,7 @@ FROM IRAN <3
 https://vahm.sellix.io/product/6300faa6ac76c
 
 # Update chages:
-cpu usage changed to defualt python runing scripts in windows os.
-if you want to use older version(using your all cores to run the script) just add the cpu pool to the main code(microllect.py)
-I DO NOT advice to use the old version;it may overheat and damage your hardware.
-feel free to send pull requests and etc...
-wish good learning yall.( Before using read the disclaimer section and be aware of your actions! )
+CPU usage has reverted to the default settings when executing Python scripts on the Windows operating system. If one desires to employ a previous version of the script, wherein all available cores are utilized, they may integrate the CPU pool into the main code, specifically within the "microllect.py" file. However, it is essential to emphasize that employing the older version is strongly discouraged, as it carries the potential risk of overheating and causing hardware damage. Users are encouraged to exercise caution and responsibility when modifying the code and are reminded to read and comprehend the disclaimer section thoroughly before proceeding. Additionally, contributions in the form of pull requests are welcomed and appreciated.
 
 
   
