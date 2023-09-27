@@ -9,10 +9,7 @@ FROM IRAN <3
 
 https://vahm.sellix.io/product/6300faa6ac76c
 USE IT FOR WALLET RECOVERY!
-# If you liked the Documentation or The project itself , Please give it a star 
-# Update chages:
-CPU usage has reverted to the default settings when executing Python scripts on the Windows operating system. If one desires to employ a previous version of the script, wherein all available cores are utilized, they may integrate the CPU pool into the main code, specifically within the "microllect.py" file. However, it is essential to emphasize that employing the older version is strongly discouraged, as it carries the potential risk of overheating and causing hardware damage. Users are encouraged to exercise caution and responsibility when modifying the code and are reminded to read and comprehend the disclaimer section thoroughly before proceeding. Additionally, contributions in the form of pull requests are welcomed and appreciated.
-
+# If you liked the Document or The project itself , Please give it a star 
 
   
 # Microllect
@@ -21,7 +18,6 @@ btc wallet attack , private key bruteforce.
 Just in case for learn about how bitcoin network working.
 And learn the Math behind The running service.
 ```
-# If you like it give it a star
   [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
   [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 # Usage:
@@ -34,17 +30,6 @@ cd Microllect&& pip install -r requirements.txt
 
 python Microllect.py
 
-```
-feel free to send your database.
-
-# Proof of Concept*
-```
-Example: 
-Public : 14F8WRfjxmKyyGYjBXkyyhsMBWumYtLPE9
-Private : 5JTwNZeumbo25WtcTQhnzDzufwTvdWXhNANBnPUANNDszM5Kktd
-Although this project can be used maliciously, it is simply an 
-exploration into the Bitcoin protocol and advanced encryption and 
-hashing techniques using Python.
 ```
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 # Private and Public Keys
@@ -111,6 +96,21 @@ Now that we have defined addition, we can define multiplication in the standard 
 ![creating master key](https://user-images.githubusercontent.com/36337300/150638854-90925b2b-45e5-4046-923e-f28be2d0fed0.png)
 ![parent and child](https://user-images.githubusercontent.com/36337300/150638857-542b8732-d7eb-40b9-ae87-db138702ce89.png)
 
+# Update chages:
+CPU usage has reverted to the default settings when executing Python scripts on the Windows operating system. If one desires to employ a previous version of the script, wherein all available cores are utilized, they may integrate the CPU pool into the main code, specifically within the "microllect.py" file. However, it is essential to emphasize that employing the older version is strongly discouraged, as it carries the potential risk of overheating and causing hardware damage. Users are encouraged to exercise caution and responsibility when modifying the code and are reminded to read and comprehend the disclaimer section thoroughly before proceeding. Additionally, contributions in the form of pull requests are welcomed and appreciated.
+
+
+feel free to send your database.
+
+# Proof of Concept*
+```
+Example: 
+Public : 14F8WRfjxmKyyGYjBXkyyhsMBWumYtLPE9
+Private : 5JTwNZeumbo25WtcTQhnzDzufwTvdWXhNANBnPUANNDszM5Kktd
+Although this project can be used maliciously, it is simply an 
+exploration into the Bitcoin protocol and advanced encryption and 
+hashing techniques using Python.
+```
 
 ## Donations
 If you would like to support me, donations are very welcome.
