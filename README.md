@@ -1,5 +1,5 @@
 # Microllect
-btc wallet attacker 
+Btc Wallet Attacker , Private Key Brute Force
 an introduction to the Bitcoin (BTC) network and how addresses are made
 [![HitCount](http://hits.dwyl.com/aryainjas/microllect.svg?style=flat)](http://hits.dwyl.com/aryainjas/microllect)
 ![Profile views](https://gpvc.arturio.dev/aryainjas)
@@ -8,7 +8,8 @@ an introduction to the Bitcoin (BTC) network and how addresses are made
 FROM IRAN <3
 
 https://vahm.sellix.io/product/6300faa6ac76c
-
+USE IT FOR WALLET RECOVERY!
+# If you liked the Documentation or The project itself , Please give it a star 
 # Update chages:
 CPU usage has reverted to the default settings when executing Python scripts on the Windows operating system. If one desires to employ a previous version of the script, wherein all available cores are utilized, they may integrate the CPU pool into the main code, specifically within the "microllect.py" file. However, it is essential to emphasize that employing the older version is strongly discouraged, as it carries the potential risk of overheating and causing hardware damage. Users are encouraged to exercise caution and responsibility when modifying the code and are reminded to read and comprehend the disclaimer section thoroughly before proceeding. Additionally, contributions in the form of pull requests are welcomed and appreciated.
 
