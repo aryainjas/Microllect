@@ -17,9 +17,9 @@ CPU usage has reverted to the default settings when executing Python scripts on 
   
 # Microllect
 ```
-Fully automated btc wallet attack.
+btc wallet attack , private key bruteforce.
 Just in case for learn about how bitcoin network working.
-And learn the protocols that are running.
+And learn the Math behind The running service.
 ```
 # If you like it give it a star
   [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
