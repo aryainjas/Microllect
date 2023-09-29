@@ -1,25 +1,14 @@
 # Microllect
-Btc Wallet Attacker , Private Key Brute Force
 an introduction to the Bitcoin (BTC) network and how addresses are made
 [![HitCount](http://hits.dwyl.com/aryainjas/microllect.svg?style=flat)](http://hits.dwyl.com/aryainjas/microllect)
-![Profile views](https://gpvc.arturio.dev/aryainjas)
 [![CodeFactor](https://www.codefactor.io/repository/github/aryainjas/microllect/badge)](https://www.codefactor.io/repository/github/aryainjas/microllect)
-![maintend](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-FROM IRAN <3
-
-https://vahm.sellix.io/product/6300faa6ac76c
-USE IT FOR WALLET RECOVERY!
-# If you liked the Document or The project itself , Please give it a star 
 
 # CHALLENGE : an obfuscated Microllect file
 # Don't buy it , HACK IT!
-Can you decrypt the obfuscated python file? 
-
-The decrypted file will reveal a the source code with instructions on how to use it
-
+```Can you decrypt the obfuscated python file? 
+The decrypted file will reveal a the source code with instructions on how to use it.
 Happy hacking!
-
-  
+```
 # Microllect
 ```
 btc wallet attack , private key bruteforce.
@@ -27,18 +16,6 @@ Just in case for learn about how bitcoin network working.
 And learn the Math behind The running service.
 ```
   [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
-  [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-# Usage:
-### Python3+
-
-```
-git clone https://github.com/aryainjas/Microllect.git
-
-cd Microllect&& pip install -r requirements.txt
-
-python Microllect.py
-
-```
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 # Private and Public Keys
 A bitcoin wallet contains a collection of key pairs, each consisting of a private key and a public key. The private key (k) is a number, usually picked at random. From the private key, we use elliptic curve multiplication, a one-way cryptographic function, to generate a public key (K). From the public key (K), we use a one-way cryptographic hash function to generate a bitcoin address (A). In this section, we will start with generating the private key, look at the elliptic curve math that is used to turn that into a public key, and finally, generate a bitcoin address from the public key. The relationship between private key, public key, and bitcoin address is shown in Figure:
@@ -119,7 +96,9 @@ Although this project can be used maliciously, it is simply an
 exploration into the Bitcoin protocol and advanced encryption and 
 hashing techniques using Python.
 ```
-
+https://vahm.sellix.io/product/6300faa6ac76c
+USE IT FOR WALLET RECOVERY!
+# If you liked the Document or The project itself , Please give it a star 
 ## Donations
 If you would like to support me, donations are very welcome.
 
