@@ -11,6 +11,14 @@ https://vahm.sellix.io/product/6300faa6ac76c
 USE IT FOR WALLET RECOVERY!
 # If you liked the Document or The project itself , Please give it a star 
 
+# CHALLENGE : an obfuscated Microllect file
+# Don't buy it , HACK IT!
+Can you decrypt the obfuscated python file? 
+
+The decrypted file will reveal a the source code with instructions on how to use it
+
+Happy hacking!
+
   
 # Microllect
 ```
@@ -131,6 +139,9 @@ You can also donate Bitcoin, Bitcoin Cash, Tron, Ethereum, Litecoin and etc ...
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
 ![microllect film](https://user-images.githubusercontent.com/36337300/150638743-db136fbb-d65c-4f02-bb4e-4b975ed7d6aa.gif)
+
+#I have deleted the executing file to prevent any potential misuse.
+As a responsible developer , I take the security and ethical implications of my work seriously. I have modified the script to remove any potentially harmful functionality and deleted the executing file to prevent it from falling into the wrong hands.
 
 # Disclaimer
 
