@@ -138,8 +138,6 @@ You can also donate Bitcoin, Bitcoin Cash, Tron, Ethereum, Litecoin and etc ...
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
-![microllect film](https://user-images.githubusercontent.com/36337300/150638743-db136fbb-d65c-4f02-bb4e-4b975ed7d6aa.gif)
-
 #I have deleted the executing file to prevent any potential misuse.
 As a responsible developer , I take the security and ethical implications of my work seriously. I have modified the script to remove any potentially harmful functionality and deleted the executing file to prevent it from falling into the wrong hands.
 
