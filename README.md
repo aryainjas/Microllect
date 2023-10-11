@@ -6,7 +6,7 @@ an introduction to the Bitcoin (BTC) network and how addresses are made
 # CHALLENGE : an obfuscated Microllect file
 # Don't buy it , HACK IT!
 ```Can you decrypt the obfuscated python file? 
-The decrypted file will reveal a the source code with instructions on how to use it.
+The decrypted file will reveal the source code with instructions on how to use it.
 Happy hacking!
 ```
 # Microllect
