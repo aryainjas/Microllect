@@ -1,7 +1,0 @@
-PySimpleGUI
-
-ecdsa
-
-base58
-
-pyperclip
