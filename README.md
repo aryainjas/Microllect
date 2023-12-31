@@ -11,7 +11,7 @@ Happy hacking!
 ```
 # Microllect
 ```
-btc wallet attack , private key bruteforce.
+btc wallet attack.
 Just in case for learn about how bitcoin network working.
 And learn the Math behind The running service.
 ```
