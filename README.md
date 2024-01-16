@@ -96,7 +96,6 @@ Although this project can be used maliciously, it is simply an
 exploration into the Bitcoin protocol and advanced encryption and 
 hashing techniques using Python.
 ```
-https://vahm.sellix.io/product/6300faa6ac76c
 USE IT FOR WALLET RECOVERY!
 # If you liked the Document or The project itself , Please give it a star 
 ## Donations
