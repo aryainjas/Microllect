@@ -1,7 +1,13 @@
 # Microllect
 an introduction to the Bitcoin (BTC) network and how addresses are made
 [![HitCount](http://hits.dwyl.com/aryainjas/microllect.svg?style=flat)](http://hits.dwyl.com/aryainjas/microllect)
-[![CodeFactor](https://www.codefactor.io/repository/github/aryainjas/microllect/badge)](https://www.codefactor.io/repository/github/aryainjas/microllect)
+# Repository Notice
+## False Claims Addressed
+It has come to my attention that a Security comment was made regarding the microlect repository, claiming that it contains a malicious binary folder. I want to assure all users that these claims are entirely false.
+
+The microlect file is not a runnable executable but rather an obfuscated script intended as a deobfuscation challenge. For transparency and to alleviate any concerns, I have scanned the repository files using multiple antivirus tools, including VirusTotal. The scans confirm that there is no malicious code or malware present in the repository.
+
+You can review the VirusTotal scan results here: [VirusTotal Scan Report](https://www.virustotal.com/gui/url/57f9cacbd71e0ab63754fc0a77eed7f0d66e32d4dd8a4e70ab11d713ab4c08d1/detection)
 
 # CHALLENGE : an obfuscated Microllect file
 # Don't buy it , HACK IT!
@@ -11,7 +17,7 @@ Happy hacking!
 ```
 # Microllect
 ```
-btc wallet attack,Bruteforce.
+btc wallet attack.
 Just in case for learn about how bitcoin network working.
 And learn the Math behind The running service.
 ```
