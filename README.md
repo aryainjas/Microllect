@@ -29,6 +29,9 @@ A bitcoin wallet contains a collection of key pairs, each consisting of a privat
 
 # Private Keys
 A private key is simply a number, picked at random. Ownership and control over the private key is the root of user control over all funds associated with the corresponding bitcoin address. The private key is used to create signatures that are required to spend bitcoins by proving ownership of funds used in a transaction. The private key must remain secret at all times, because revealing it to third parties is equivalent to giving them control over the bitcoins secured by that key. The private key must also be backed up and protected from accidental loss, because if it’s lost it cannot be recovered and the funds secured by it are forever lost.
+While cracking Bitcoin wallets is technically possible in theory, it is extremely hard, time-consuming, and has an extraordinarily low chance of success due to the robust cryptographic systems in place. Attempting to do so without proper authorization is also illegal and unethical.
+
+It is important to use technology responsibly and ethically at all times.
 # Generating a private key from a random number
 The first and most important step in generating keys is to find a secure source of entropy, or randomness. Creating a bitcoin key is essentially the same as “Pick a number between 1 and 2^256.” The exact method you use to pick that number does not matter as long as it is not predictable or repeatable. Bitcoin software uses the underlying operating system’s random number generators to produce 256 bits of entropy (randomness). Usually, the OS random number generator is initialized by a human source of randomness, which is why you may be asked to wiggle your mouse around for a few seconds. For the truly paranoid, nothing beats dice, pencil, and paper.
 
