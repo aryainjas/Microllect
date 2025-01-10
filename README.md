@@ -1,6 +1,6 @@
 # Microllect
 an introduction to the Bitcoin (BTC) network and how addresses are made
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faryainjas%2FMicrollect&count_bg=%2348CBB4&title_bg=%2351B834&icon=haveibeenpwned.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faryainjas%2FMicrollect&count_bg=%2348CBB4&title_bg=%2351B834&icon=haveibeenpwned.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/aryainjas/Microllect)
 # Repository Notice
 ## False Claims Addressed
 It has come to my attention that a Security comment was made regarding the microlect repository, claiming that it contains a malicious binary folder. I want to assure all users that these claims are entirely false.
