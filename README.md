@@ -28,7 +28,7 @@ The goal of this repository is to analyze how the network operates and to study 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 # Private and Public Keys
 A bitcoin wallet contains a collection of key pairs, each consisting of a private key and a public key. The private key (k) is a number, usually picked at random. From the private key, we use elliptic curve multiplication, a one-way cryptographic function, to generate a public key (K). From the public key (K), we use a one-way cryptographic hash function to generate a bitcoin address (A). In this section, we will start with generating the private key, look at the elliptic curve math that is used to turn that into a public key, and finally, generate a bitcoin address from the public key. The relationship between private key, public key, and bitcoin address is shown in Figure:
-![private and public key 1](https://user-images.githubusercontent.com/36337300/150638764-d1884542-e5fc-44f7-b26c-874f07555d3a.png)
+![private and public key 1](images/private-and-public-key-1.png)
 
 # Private Keys
 A private key is simply a number, picked at random. Ownership and control over the private key is the root of user control over all funds associated with the corresponding bitcoin address. The private key is used to create signatures that are required to spend bitcoins by proving ownership of funds used in a transaction. The private key must remain secret at all times, because revealing it to third parties is equivalent to giving them control over the bitcoins secured by that key. The private key must also be backed up and protected from accidental loss, because if it’s lost it cannot be recovered and the funds secured by it are forever lost.
@@ -49,14 +49,14 @@ The size of bitcoin’s private key space, 2^256 is an unfathomably large number
 The public key is calculated from the private key using elliptic curve multiplication, which is irreversible: K=k*G where _k_ is the private key, _G_ is a constant point called the _generator point_ and _K_ is the resulting public key. The reverse operation, known as “finding the discrete logarithm”—calculating _k_ if you know _K_—is as difficult as trying all possible values of `k`, i.e., a brute-force search. Before we demonstrate how to generate a public key from a private key, let’s look at elliptic curve cryptography in a bit more detail.
 # ### Elliptic Curve Cryptography Explained
 Elliptic curve cryptography is a type of asymmetric or public-key cryptography based on the discrete logarithm problem as expressed by addition and multiplication on the points of an elliptic curve.
-![elliptic curve](https://user-images.githubusercontent.com/36337300/150638791-32ee4360-f977-4f30-b9f1-359269a08215.png)
+![elliptic curve](images/elliptic-curve.png)
 
 Bitcoin uses a specific elliptic curve and set of mathematical constants, as defined in a standard called  `secp256k1`, established by the  National Institute of Standards and Technology (NIST). The  `secp256k1`  curve is defined by the following function, which produces an elliptic curve:
-![ellip form](https://user-images.githubusercontent.com/36337300/150638818-f938660b-883d-4bee-afcc-2f87917b1f1e.png)
+![ellip form](images/ellip-form.png)
 
 The _mod p_ (modulo prime number p) indicates that this curve is over a finite field of prime order _p_, also written as F of p where p = 2^256 – 2^32 – 2^9 – 2^8 – 2^7 – 2^6 – 2^4 – 1, a very large prime number.
 Because this curve is defined over a finite field of prime order instead of over the real numbers, it looks like a pattern of dots scattered in two dimensions, which makes it difficult to visualize. However, the math is identical as that of an elliptic curve over the real numbers.
-![ellip curver with p=17](https://user-images.githubusercontent.com/36337300/150638830-fd98ea06-98af-482f-9d63-3993f887db3d.png)
+![ellip curver with p=17](images/ellip-curve-p17.png)
 
 ### So, for example, the following is a point P with coordinates (x,y) that is a point on the `secp256k1` curve. You can check this yourself using Python:
 """
@@ -79,19 +79,19 @@ It turns out that + is associative, which means that (A+B)`C = A`(B+C). That mea
 
 Now that we have defined addition, we can define multiplication in the standard way that extends addition. For a point P on the elliptic curve, if k is a whole number, then kP = P + P + P + … + P (k times). Note that k is sometimes confusingly called an “exponent” in this case.
 # conversion of a public key into a bitcoin address
-![conversion of a public key into a bitcoin address](https://user-images.githubusercontent.com/36337300/150638841-861594a3-f240-47c2-9892-dfd5d25347ce.png)
-![base58 check](https://user-images.githubusercontent.com/36337300/150638844-5a4cb861-3c7f-4ce7-808b-b572d02f91d0.png)
+![conversion of a public key into a bitcoin address](images/conversion-public-key-to-bitcoin-address.png)
+![base58 check](images/base58-check.png)
 
 
 # Difference between public keys 
-![pub key dif](https://user-images.githubusercontent.com/36337300/150638851-ea9408cc-e7a4-4f02-ace7-239ca7cd733d.png)
+![pub key dif](images/pub-key-dif.png)
 
 |  format|private key  |
 |Hex|1E99423A4ED27608A15A2616A2B0E9E52CED330AC530EDCC32C8FFC6A526AEDD|
 |WIF  |  5J3mBbAH58CpQ3Y5RNJpUKPE62SQ5tfcvU2JpbnkeyhfsYB1Jcn
 # Creating master key
-![creating master key](https://user-images.githubusercontent.com/36337300/150638854-90925b2b-45e5-4046-923e-f28be2d0fed0.png)
-![parent and child](https://user-images.githubusercontent.com/36337300/150638857-542b8732-d7eb-40b9-ae87-db138702ce89.png)
+![creating master key](images/creating-master-key.png)
+![parent and child](images/parent-and-child.png)
 ```
 USE IT FOR WALLET RECOVERY! (More chance of meeting aliens tomorrow! HAHA)
 ```
